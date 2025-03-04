@@ -3,5 +3,5 @@
 int main()
 {
 	printf("Salutare!\n");
-	return 0;
+	
 }
